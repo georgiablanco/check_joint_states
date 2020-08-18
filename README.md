@@ -27,8 +27,8 @@ mean they have same order
 second object  
 - for the same joint |pos1 - pos2| < tolerance  
                                               
-For example, these joint states are considered equal:
-first_joint_state.name = {"joint1”, “joint2”, “joint3"};
-first_joint_state.position = {1, 2, 3};
-second_joint_state.name = {"joint2”, “joint3", "joint1"};
-second_joint_state.position = {2, 3, 1}
+For example, these joint states are considered equal:  
+first_joint_state.name = {"joint1”, “joint2”, “joint3"};  
+first_joint_state.position = {1, 2, 3};  
+second_joint_state.name = {"joint2”, “joint3", "joint1"};  
+second_joint_state.position = {2, 3, 1};  
