@@ -1,5 +1,5 @@
 # check_joint_states
-C++ code to check joint states 
+C++ code to check joint states for an interview task
 
 # Interview Task
 
